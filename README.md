@@ -81,7 +81,7 @@ How It Works
 Usage
 -----
 
-1.  git clone https://github.com/your-username/ocr-with-cnn.gitcd ocr-with-cnn
+1.  git clone [https://github.com/HarishAggarwal/OCR](https://github.com/HarishAggarwal/OCR).gitcd OCR
     
 2.  pip install -r requirements.txt
     
