@@ -35,7 +35,7 @@ To run this project, ensure the following dependencies are installed:
 
 Install the required Python libraries using:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install opencv-python-headless tensorflow numpy matplotlib   `
+    pip install opencv-python-headless tensorflow numpy matplotlib   `
 
 Dataset
 -------
