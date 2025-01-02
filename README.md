@@ -95,9 +95,18 @@ Testing with Example Image
 
 To test with an MNIST example image:
 
-1.  import matplotlib.pyplot as pltfrom tensorflow.keras.datasets import mnistimport cv2(x\_train, y\_train), (x\_test, y\_test) = mnist.load\_data()example\_image = x\_test\[0\]cv2.imwrite('mnist\_example.png', example\_image)plt.imshow(example\_image, cmap='gray')plt.title('Example MNIST Image')plt.show()
+1.
+   import matplotlib.pyplot as pltfrom tensorflow.keras.datasets
+   import mnist
+   import cv2
+   (x\_train, y\_train), (x\_test, y\_test) = mnist.load\_data()
+   example\_image = x\_test\[0\]
+   cv2.imwrite('mnist\_example.png', example\_image)
+   plt.imshow(example\_image, cmap='gray')
+   plt.title('Example MNIST Image')
+   plt.show()
     
-2.  Use mnist\_example.png as the input image for the OCR pipeline.
+3.  Use mnist\_example.png as the input image for the OCR pipeline.
     
 
 Model Architecture
